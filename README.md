@@ -94,15 +94,6 @@ The application checks whether:
 
 This project uses the Frankfurter API to retrieve exchange rates.
 
-## 📂 Project Structure
-
-currency-converter/
-│
-├── index.html
-├── style.css
-├── app.js
-├── countries.js
-└── README.md
 
 ## 📚 What I Learned
 
