@@ -6,7 +6,7 @@ The application allows users to convert amounts between different currencies usi
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here.
+https://vickyt-thakur.github.io/Currency-convertor/
 
 ## 📌 Features
 
